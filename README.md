@@ -1,2 +1,2 @@
 # ntbd_firmware
-Arduino sketch for the ntbd robotic arm control
+Arduino sketches for the robotic arm control with ROS
