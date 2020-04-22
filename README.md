@@ -10,7 +10,7 @@ Versions:
 Requires ntdb_msgs ROS package available in ntbd_base at: https://github.com/inaciose/ntbd_base
 
 
-Test robot arms dyanamic with the following command sample:
+Test robot arm movement with the following command sample:
 
 rostopic pub --once /motors ntbd_msgs/Motors_Array "data: [20, 10, 110, 90]"
 
