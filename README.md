@@ -14,7 +14,7 @@ Test robot arm movement with the following command sample:
 
 rostopic pub --once /motors ntbd_msgs/Motors_Array "data: [20, 10, 110, 90]"
 
-Related repositories
+# Related repositories
 
 - https://github.com/inaciose/ntbd_base
 - https://github.com/inaciose/ntbd_web
